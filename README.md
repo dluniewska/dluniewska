@@ -1,6 +1,8 @@
 # Hello there <img src="https://user-images.githubusercontent.com/72083113/152360671-96c209fd-6f4e-4e78-b92a-d7dff5b9faaf.png" width="30px">
 
-I am a student of the University of Gdańsk, majoring in Computer Science and Econometrics, with a specialization in IT Applications in Business.
+I am a third-year student at the University of Gdańsk, interested in programming and data analysis. I am a member of the NZS UG student club as the IT Director.
+I am fascinated with medicine and pharmacy. I am communicative and open minded. Currently, my goal is to find myself in the IT industry. I want to develop, I'm very thorough and I always find a solution.
+
 <!--
 **dluniewska/dluniewska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
