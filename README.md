@@ -4,13 +4,13 @@ I am a third-year student at the University of Gdańsk, interested in programmin
 Fascinated with medicine and pharmacy. I am communicative and open minded, currently, my goal is to find myself in the IT industry. I want to develop, I'm very thorough and I always find a solution.
 
 ## &#x1f4c8; GitHub Stats
+<p>
 <a href="https://github.com/dluniewska/dluniewska">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dluniewska&title_color=ffffff&text_color=c9cacc&icon_color=C69CC5&bg_color=1d1f21&langs_count=3" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dluniewska&title_color=ffffff&text_color=c9cacc&icon_color=C69CC5&bg_color=1d1f21&langs_count=6&layout=compact" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dluniewska&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=C69CC5&bg_color=1d1f21&layout=compact" alt="dluniewska's GitHub Stats"/>
 <!--   &hide=html,blade&layout=compact -->
 </a>
-<a href="https://github.com/dluniewska/dluniewska">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dluniewska&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=C69CC5&bg_color=1d1f21&layout=compact" alt="dluniewska's GitHub Stats"/>
-</a>
+</p>
 
 <a href="https://github.com/dluniewska/SchoolNotes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dluniewska&repo=SchoolNotes&&title_color=ffffff&text_color=c9cacc&icon_color=C69CC5&bg_color=1d1f21" />
