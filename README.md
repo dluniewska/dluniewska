@@ -5,7 +5,7 @@ Fascinated with medicine and pharmacy. I am communicative and open minded, curre
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/dluniewska/dluniewska">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dluniewska&title_color=ffffff&text_color=c9cacc&icon_color=C69CC5&bg_color=1d1f21&langs_count=6&layout=compact" height="205px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dluniewska&title_color=ffffff&text_color=c9cacc&icon_color=C69CC5&bg_color=1d1f21&langs_count=6&layout=compact" />
 <!--   &hide=html,blade -->
 </a>
 <a href="https://github.com/dluniewska/dluniewska">
