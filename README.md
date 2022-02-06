@@ -1,7 +1,7 @@
 # Hello there <img src="https://user-images.githubusercontent.com/72083113/152360671-96c209fd-6f4e-4e78-b92a-d7dff5b9faaf.png" width="30px">
 
 I am a third-year student at the University of Gdańsk, interested in programming and data analysis. I am a member of the NZS UG student club as the IT Director.
-I am fascinated with medicine and pharmacy. I am communicative and open minded. Currently, my goal is to find myself in the IT industry. I want to develop, I'm very thorough and I always find a solution.
+Fascinated with medicine and pharmacy. I am communicative and open minded, currently, my goal is to find myself in the IT industry. I want to develop, I'm very thorough and I always find a solution.
 
 <!--
 **dluniewska/dluniewska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +24,13 @@ I am fascinated with medicine and pharmacy. I am communicative and open minded. 
 </a>
 <a href="https://github.com/dluniewska/CyberAnimals2021">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dluniewska&repo=CyberAnimals2021&title_color=ffffff&text_color=c9cacc&icon_color=C69CC5&bg_color=1d1f21" />
-</a>    
+</a>
+<a href="https://github.com/dluniewska/LetSUP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dluniewska&repo=LetSUP&title_color=ffffff&text_color=c9cacc&icon_color=C69CC5&bg_color=1d1f21" />
+</a>   
+<a href="https://github.com/dluniewska/WPFCalculator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dluniewska&repo=WPFCalculator&&title_color=ffffff&text_color=c9cacc&icon_color=C69CC5&bg_color=1d1f21" />
+</a>
 
 ## 🔧 Technologies & Tools
 
