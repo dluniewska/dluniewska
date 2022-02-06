@@ -3,20 +3,13 @@
 I am a third-year student at the University of Gdańsk, interested in programming and data analysis. I am a member of the NZS UG student club as the IT Director.
 Fascinated with medicine and pharmacy. I am communicative and open minded, currently, my goal is to find myself in the IT industry. I want to develop, I'm very thorough and I always find a solution.
 
-<!--
-**dluniewska/dluniewska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dluniewska&layout=compact&count_private=true&theme=dracula" />
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dluniewska&repo=SchoolNotes&theme=dracula")](https://github.com/dluniewska/SchoolNotes)" />
-</a> -->
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/dluniewska/dluniewska">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dluniewska&hide=html,blade&title_color=ffffff&text_color=c9cacc&icon_color=C69CC5&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dluniewska&title_color=ffffff&text_color=c9cacc&icon_color=C69CC5&bg_color=1d1f21&langs_count=6&layout=compact" height="200px" />
+<!--   &hide=html,blade -->
 </a>
 <a href="https://github.com/dluniewska/dluniewska">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dluniewska&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=C69CC5&bg_color=1d1f21" alt="dluniewska's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dluniewska&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=C69CC5&bg_color=1d1f21" alt="dluniewska's GitHub Stats" height="200px" />
 </a>
 
 <a href="https://github.com/dluniewska/SchoolNotes">
