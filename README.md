@@ -23,10 +23,13 @@ Fascinated with medicine and pharmacy. I am communicative and open minded, curre
 
 ## 🔧 Technologies & Tools
 
-![Visual Studio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&logo=visualstudio&logoColor=640862)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&logo=visualstudio&logoColor=CC66FF)&nbsp;
+![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=csharp&logoColor=640862)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=4dd2ff)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=4dd2ff)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=postgresql&logoColor=99b3ff)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=AndroidStudio&logoColor=41AC5B)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=Eclipse&logoColor=41078E)&nbsp;
-![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp&logoColor=3B7B3A)&nbsp;
 ![InteliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-05122A?style=flat&logo=intellij-idea&logoColor=A92E45)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
