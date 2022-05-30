@@ -26,6 +26,7 @@ Fascinated with medicine and pharmacy. I am communicative and open minded, curre
 ![Visual Studio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&logo=visualstudio&logoColor=CC66FF)&nbsp;
 ![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=csharp&logoColor=640862)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=4dd2ff)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=563D7C)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=4dd2ff)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=postgresql&logoColor=99b3ff)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=AndroidStudio&logoColor=41AC5B)&nbsp;
