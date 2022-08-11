@@ -1,7 +1,6 @@
 # Hello there <img src="https://user-images.githubusercontent.com/72083113/152360671-96c209fd-6f4e-4e78-b92a-d7dff5b9faaf.png" width="30px">
 
-I am a third-year student at the University of Gdańsk, interested in programming and data analysis. I am a member of the NZS UG student club as the IT Director.
-Fascinated with medicine and pharmacy. I am communicative and open minded, currently, my goal is to find myself in the IT industry. I want to develop, I'm very thorough and I always find a solution.
+I am a junior developer also interested in data analysis. Fascinated with medicine and pharmacy. I am communicative and open minded, currently, my goal is to find myself in the IT industry. I want to develop, I'm very thorough and I always find a solution.
 
 ## &#x1f4c8; GitHub Stats
 <p>
