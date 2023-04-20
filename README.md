@@ -1,6 +1,8 @@
 # Hello there <img src="https://user-images.githubusercontent.com/72083113/152360671-96c209fd-6f4e-4e78-b92a-d7dff5b9faaf.png" width="30px">
 
-I am a junior developer also interested in data analysis. Fascinated with medicine and pharmacy. I am communicative and open minded, currently, my goal is to find myself in the IT industry. I want to develop, I'm very thorough and I always find a solution.
+💻 Work - I work as Junior Software Developer. My favourite stack is C# - React duo, but I'm always ready and excited to explore new technologies!
+
+📚 Studies - Started right after high school and still can't stop! Currently, I started my studies in Computer Science and Econometrics with a minor in Data Analysis - Big Data. I hope to broaden my horizons in terms of statistics and analytical skills.
 
 ## &#x1f4c8; GitHub Stats
 <p>
