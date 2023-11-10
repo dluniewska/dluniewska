@@ -1,8 +1,8 @@
 # Hello there <img src="https://user-images.githubusercontent.com/72083113/152360671-96c209fd-6f4e-4e78-b92a-d7dff5b9faaf.png" width="30px">
 
-💻 Work - I work as Junior Software Developer. My favourite stack is C# - React duo, but I'm always ready and excited to explore new technologies!
+💻 Work - I am currently working as a software developer and specialize in C#, React and PostgreSQL technologies. I manage databases using Entity Framework. My experience includes software maintenance and development as well as containerization using Docker and docker-compose. I work with tools such as Azure or Jenkins, and as an environment I mainly use Visual Studio and Visual Studio Code. I use version control systems such as Git, GitLab and GitHub. Thanks to them, I can effectively collaborate as a team and track changes in the source code.
 
-📚 Studies - Started right after high school and still can't stop! Currently, I started my studies in Computer Science and Econometrics with a minor in Data Analysis - Big Data. I hope to broaden my horizons in terms of statistics and analytical skills.
+📚 Studies - Currently, I am studying Computer Science and Econometrics with a minor in Data Analysis - Big Data. I hope to broaden my horizons in terms of statistics and analytical skills.
 
 ## &#x1f4c8; GitHub Stats
 <p>
